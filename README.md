@@ -23,7 +23,7 @@ High-level KPIs with time-based comparisons:
 - Month-over-Month (MoM) and Year-over-Year (YoY) trends
 - Sales channel contribution (Online vs In-store)
 
-![Executive Summary](Dashboard_screenshots/Executive_summary.png)
+![Executive Summary](Dashboard_screeshots/Executive_summary.png)
 
 ---
 
@@ -33,7 +33,7 @@ Performance breakdown across products, categories, and regions:
 - Top and bottom performing products
 - Country-level YoY sales growth
 
-![Sales Performance](Dashboard_screenshots/sales_performance.png)
+![Sales Performance](Dashboard_screeshots/sales_performance.png)
 
 ---
 
@@ -43,7 +43,7 @@ Focus on identifying revenue leakage from returns:
 - Returned revenue impact by product
 - High-risk products contributing to return losses
 
-![Returns & Quality](Dashboard_screenshots/return_quality.png)
+![Returns & Quality](Dashboard_screeshots/return_quality.png)
 
 ---
 
@@ -53,7 +53,7 @@ Operational efficiency and cost analysis:
 - Shipping cost per order by delivery partner
 - High-priority order distribution across warehouses
 
-![Operations & Logistics](Dashboard_screenshots/operation_logistics.png)
+![Operations & Logistics](Dashboard_screeshots/operation_logistics.png)
 
 ---
 
